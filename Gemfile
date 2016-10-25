@@ -48,3 +48,5 @@ gem 'azure_mgmt_traffic_manager',     path: 'management/azure_mgmt_traffic_manag
 gem 'azure_mgmt_web',                 path: 'management/azure_mgmt_web'
 gem 'azure_sdk',                      path: 'azure_sdk'
 
+
+
