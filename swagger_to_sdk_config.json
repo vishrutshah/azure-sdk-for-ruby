@@ -6,7 +6,9 @@
     "autorest_options": {
       "ruby": "",
       "azure-arm": true,
-      "use": "/autorest.ruby"
+      "use": "/Users/vishrut/git-repos/test-sts/autorest.ruby",
+      "debug": "",
+      "verbose": ""
     }
   },
   "projects": {
