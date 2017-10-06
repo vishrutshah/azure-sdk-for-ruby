@@ -16,6 +16,7 @@
       "autorest_options": {
         "namespace": "Azure::ARM::Compute::Api_2017_03_30",
         "package-version": "0.11.0",
+        "package-name": "azure_mgmt_compute",
         "input-file": [
           "specification/compute/resource-manager/Microsoft.Compute/2017-03-30/compute.json",
           "specification/compute/resource-manager/Microsoft.Compute/2017-03-30/disk.json",
