@@ -24,8 +24,8 @@
         "title": "ComputeManagementClient"
       },
       "output_dir": "management/azure_mgmt_compute/lib/2017-03-30",
-      "generated_relative_base_directory": "management/azure_mgmt_compute/lib/2017-03-30",
-      "build_dir": "azure-mgmt-compute/azure/mgmt/compute/v2017_03_30"
+      "generated_relative_base_directory": "2017-03-30",
+      "build_dir": "management/azure_mgmt_compute/lib/2017-03-30"
     }
   }
 }
