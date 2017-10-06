@@ -2,7 +2,7 @@
   "meta": {
     "version": "0.2.0",
     "language": "Ruby",
-    "autorest": "https://github.com/Azure/autorest/releases/download/test-stream-issue/microsoft.azure-autorest-core-2.0.5002.tgz",
+    "autorest": "latest",
     "autorest_options": {
       "ruby": "",
       "azure-arm": true,
@@ -13,11 +13,16 @@
   },
   "projects": {
     "azure_mgmt_compute": {
-      "markdown": "specification/compute/resource-manager/readme.md",
       "autorest_options": {
         "namespace": "Azure::ARM::Compute",
         "package-name": "azure_mgmt_compute",
-        "package-version": "0.11.0"
+        "package-version": "0.11.0",
+        "input-file": [
+          "specification/compute/resource-manager/Microsoft.Compute/2017-03-30/compute.json",
+          "specification/compute/resource-manager/Microsoft.Compute/2017-03-30/disk.json",
+          "specification/compute/resource-manager/Microsoft.Compute/2017-03-30/runCommands.json"
+        ],
+        "title": "ComputeManagementClient"
       },
       "output_dir": "management/azure_mgmt_compute/lib",
       "wrapper_filesOrDirs": [
