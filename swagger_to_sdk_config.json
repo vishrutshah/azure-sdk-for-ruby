@@ -49,7 +49,7 @@
       "build_dir": "management/azure_mgmt_authorization/lib/2015-07-01"
     },
     "azure_mgmt_automation_2015_10_31": {
-      "markdown": "specification/authorization/resource-manager/readme.md",
+      "markdown": "specification/automation/resource-manager/readme.md",
       "autorest_options": {
         "namespace": "Azure::ARM::Authorization::Api_2015_10_31",
         "package-version": "0.11.0",
