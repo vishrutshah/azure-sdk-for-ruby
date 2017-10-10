@@ -153,7 +153,7 @@
         "tag": "package-2015-06-preview"
       },
       "output_dir": "management/azure_mgmt_commerce/lib/2015-06-01-preview",
-      "generated_relative_base_directory": "2017-04-18",
+      "generated_relative_base_directory": "2015-06-01-preview",
       "build_dir": "management/azure_mgmt_commerce/lib/2015-06-01-preview"
     },
     "azure_mgmt_compute_2017_03_30": {
