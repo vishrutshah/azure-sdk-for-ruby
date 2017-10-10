@@ -152,9 +152,9 @@
         "package-name": "azure_mgmt_commerce",
         "tag": "package-2015-06-preview"
       },
-      "output_dir": "management/azure_mgmt_cognitive_services/lib/2015-06-01-preview",
+      "output_dir": "management/azure_mgmt_commerce/lib/2015-06-01-preview",
       "generated_relative_base_directory": "2017-04-18",
-      "build_dir": "management/azure_mgmt_cognitive_services/lib/2015-06-01-preview"
+      "build_dir": "management/azure_mgmt_commerce/lib/2015-06-01-preview"
     },
     "azure_mgmt_compute_2017_03_30": {
       "autorest_options": {
