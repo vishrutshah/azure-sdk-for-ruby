@@ -532,9 +532,9 @@
         "tag": "package-links-2016-09",
         "title": "LinksManagementClient"
       },
-      "output_dir": "management/azure_mgmt_links/lib/2015-06-01",
-      "generated_relative_base_directory": "2015-06-01",
-      "build_dir": "management/azure_mgmt_links/lib/2015-06-01"
+      "output_dir": "management/azure_mgmt_links/lib/2016-09-01",
+      "generated_relative_base_directory": "2016-09-01",
+      "build_dir": "management/azure_mgmt_links/lib/2016-09-01"
     },
     "azure_mgmt_locks_2016_09_01": {
       "markdown": "specification/resources/resource-manager/readme.md",
