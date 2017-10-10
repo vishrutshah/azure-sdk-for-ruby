@@ -378,6 +378,18 @@
       "generated_relative_base_directory": "2015-10-01-preview",
       "build_dir": "management/azure_mgmt_datalake_store/lib/2015-10-01-preview"
     },
+    "azure_mgmt_devtestlabs_2016_05_15": {
+      "markdown": "specification/devtestlabs/resource-manager/readme.md",
+      "autorest_options": {
+        "namespace": "Azure::ARM::DevTestLabs::Api_2016_05_15",
+        "package-version": "0.14.0",
+        "package-name": "azure_mgmt_devtestlabs",
+        "tag": "package-2016-05"
+      },
+      "output_dir": "management/azure_mgmt_devtestlabs/lib/2016-05-15",
+      "generated_relative_base_directory": "2016-05-15",
+      "build_dir": "management/azure_mgmt_devtestlabs/lib/2016-05-15"
+    },
     "azure_mgmt_dns_2016_04_01": {
       "markdown": "specification/dns/resource-manager/readme.md",
       "autorest_options": {
@@ -529,8 +541,7 @@
         "namespace": "Azure::ARM::Links::Api_2016_09_01",
         "package-version": "0.14.0",
         "package-name": "azure_mgmt_links",
-        "tag": "package-links-2016-09",
-        "title": "LinksManagementClient"
+        "tag": "package-links-2016-09"
       },
       "output_dir": "management/azure_mgmt_links/lib/2016-09-01",
       "generated_relative_base_directory": "2016-09-01",
@@ -1037,7 +1048,7 @@
       "generated_relative_base_directory": "2016-06-01",
       "build_dir": "management/azure_mgmt_recovery_services_backup/lib/2016-06-01"
     },
-    "azure_mgmt_recovery_services_2016_08_10": {
+    "azure_mgmt_recovery_services_site_recovery_2016_08_10": {
       "markdown": "specification/recoveryservicessiterecovery/resource-manager/readme.md",
       "autorest_options": {
         "namespace": "Azure::ARM::RecoveryServicesSiteRecovery::Api_2016_08_10",
