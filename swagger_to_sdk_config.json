@@ -500,7 +500,7 @@
       "build_dir": "management/azure_mgmt_iot_hub/lib/2016-02-03"
     },
     "azure_mgmt_key_vault_2016_10_01": {
-      "markdown": "specification/iothub/resource-manager/readme.md",
+      "markdown": "specification/keyvault/resource-manager/readme.md",
       "autorest_options": {
         "namespace": "Azure::ARM::KeyVault::Api_2016_10_01",
         "package-version": "0.14.0",
@@ -512,7 +512,7 @@
       "build_dir": "management/azure_mgmt_key_vault/lib/2016-10-01"
     },
     "azure_mgmt_key_vault_2015_06_01": {
-      "markdown": "specification/iothub/resource-manager/readme.md",
+      "markdown": "specification/keyvault/resource-manager/readme.md",
       "autorest_options": {
         "namespace": "Azure::ARM::KeyVault::Api_2015_06_01",
         "package-version": "0.14.0",
