@@ -1168,9 +1168,9 @@
         "package-name": "azure_mgmt_scheduler",
         "tag": "package-2016-03"
       },
-      "output_dir": "management/azure_mgmt_scheduler/lib/2017-08-31-preview",
-      "generated_relative_base_directory": "2017-08-31-preview",
-      "build_dir": "management/azure_mgmt_scheduler/lib/2017-08-31-preview"
+      "output_dir": "management/azure_mgmt_scheduler/lib/2016-03-01",
+      "generated_relative_base_directory": "2016-03-01",
+      "build_dir": "management/azure_mgmt_scheduler/lib/2016-03-01"
     },
     "azure_mgmt_search_2015_08_19": {
       "markdown": "specification/search/resource-manager/readme.md",
