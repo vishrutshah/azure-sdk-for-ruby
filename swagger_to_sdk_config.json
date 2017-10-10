@@ -338,9 +338,9 @@
         "package-name": "azure_mgmt_datalake_analytics",
         "tag": "package-2016-11"
       },
-      "output_dir": "management/azure_mgmt_datalake_analytics/lib/2017-04-26",
-      "generated_relative_base_directory": "2017-04-26",
-      "build_dir": "management/azure_mgmt_datalake_analytics/lib/2017-04-26"
+      "output_dir": "management/azure_mgmt_datalake_analytics/lib/2016-11-01",
+      "generated_relative_base_directory": "2016-11-01",
+      "build_dir": "management/azure_mgmt_datalake_analytics/lib/2016-11-01"
     },
     "azure_mgmt_datalake_analytics_2015_10_01_preview": {
       "markdown": "specification/datalake-analytics/resource-manager/readme.md",
